@@ -9,7 +9,7 @@ Laragon est créé par Leo Khoa. Il est responsable de DevOps pour une société
 Il fournit un environnement de développement moderne et puissant que d'innombrables personnes aiment utiliser chaque jour.
 
 ## Pré-requis
-* Installer Laragon (3.2)
+* [Installer Laragon (full)](https://laragon.org/download/)
 
 ## N°1 - Configuration de Laragon
 Avant toute chose il nous faut configurer Laragon
