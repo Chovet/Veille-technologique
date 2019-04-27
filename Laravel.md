@@ -16,7 +16,7 @@ Il fournit un environnement de développement moderne et puissant que d'innombra
 * [Installer Laragon (full)](https://laragon.org/download/)
 
 ## N°1 - Configuration de Laragon
-Avant toute chose il nous faut configurer Laragon
+Avant toute chose il nous faut configurer Laragon !
 
 Afin de choisir la destination de notre application Laravel, il suffit de modifier le chemin de **Document Root**.
 
