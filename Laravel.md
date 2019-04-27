@@ -41,7 +41,7 @@ Laragon va configurer automatiquement tous les outils nécessaires au bon foncti
 ## N°3 - Tester la configuration
 
 À la fin de l'installation une **URL** vous sera transmise.
-Entrer cette URL dans votre navigateur et si tout se passe bien vous devriez obtenir une page Laravel.
+Entrer cette URL dans votre navigateur, et si tout se passe bien vous devriez obtenir une page Laravel.
 
 ## Résultat
 (https://github.com/Chovet/Veille-technologique/blob/master/welcome-page.png)
