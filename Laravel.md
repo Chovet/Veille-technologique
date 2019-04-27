@@ -4,7 +4,7 @@
 Ce guide vous permettra de mettre en production un projet Laravel en local.
 
 ## Laragon qu'es ce que c'est ?
-Laragon est créé par Leo Khoa. Il est responsable de DevOps pour une société SaaS en pleine croissance. Il a construit Laragon avec un objectif:
+Laragon est créé par Leo Khoa. Il a construit Laragon avec un objectif:
 * rendre le développement web rapide
 * amusant et agréable
 
@@ -25,7 +25,7 @@ Pour le reste la configuration par défaut convient parfaitement à nos besoins 
 ## Exemple de configuration
 (https://github.com/Chovet/Veille-technologique/blob/master/Conf-laragon.jpg)
 
-## N°2 - Creation d'une application Laravel
+## N°2 - Création d'une application Laravel
 
 Pour cela rien de plus simple, il faut :
 * **démarrer** Laragon a l'aide du boutton
