@@ -21,3 +21,23 @@ Vous pouvez également modifier le **Nom d'hôte** (permet la connexion à votre
 Pour le reste la configuration par défaut convient parfaitement à nos besoins !
 
 ## Exemple de configuration
+(https://github.com/Chovet/Veille-technologique/blob/master/Conf-laragon.jpg)
+
+## N°2 - Creation d'une application Laravel
+
+Pour cela rien de plus simple, il faut :
+* **démarrer** Laragon a l'aide du boutton
+* effectuer un **clique droit** sur l'application
+* puis **créer un site web rapidement**.
+
+Vous aurez alors l'accès à différents frameworks (Laravel, Symphony) ou outil de création du site internet (Word Press).
+
+Selectioner Laravel et une suite d'installation vont alors démarrer, Laragon va configurer automatiquement tous les outils nécessaires au bon fonctionnement du framewok.
+
+## N°3 - Tester la configuration
+
+À la fin de l'installation une **URL** vous sera transmise.
+Entrer cette URL dans votre navigateur et si tout se passe bien vous devriez obtenir une page Laravel.
+
+## Résultat
+
