@@ -34,7 +34,9 @@ Pour cela rien de plus simple, il faut :
 
 Vous aurez alors l'accès à différents frameworks (Laravel, Symphony) ou outil de création du site internet (Word Press).
 
-Selectioner Laravel et une suite d'installation vont alors démarrer, Laragon va configurer automatiquement tous les outils nécessaires au bon fonctionnement du framewok.
+Selectioner Laravel et une suite d'installation vont alors démarrer.
+
+Laragon va configurer automatiquement tous les outils nécessaires au bon fonctionnement du framewok.
 
 ## N°3 - Tester la configuration
 
