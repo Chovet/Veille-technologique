@@ -4,7 +4,9 @@
 Ce guide vous permettra de mettre en production un projet Laravel en local.
 
 ## Laragon qu'est-ce que c'est ?
-Laragon est créé par Leo Khoa. Il a construit Laragon avec un objectif:
+Laragon est créé par Leo Khoa.
+
+Il a construit Laragon avec un objectif :
 * rendre le développement web rapide
 * amusant et agréable
 
