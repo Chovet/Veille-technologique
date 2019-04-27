@@ -13,3 +13,11 @@ Il fournit un environnement de développement moderne et puissant que d'innombra
 
 ## N°1 - Configuration de Laragon
 Avant toute chose il nous faut configurer Laragon
+
+Afin de choisir la destination de notre application Laravel, il suffit de modifier le chemin de **Document Root**.
+
+Vous pouvez également modifier le **Nom d'hôte** (permet la connexion à votre application via votre navigateur internet).
+
+Pour le reste la configuration par défaut convient parfaitement à nos besoins !
+
+## Exemple de configuration
