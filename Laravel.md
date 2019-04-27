@@ -1,3 +1,5 @@
+
+
 # LARAVEL - Mise en production d'un projet avec Laragon
 Ce guide vous permettra de mettre en production un projet Laravel en local.
 
@@ -40,4 +42,4 @@ Selectioner Laravel et une suite d'installation vont alors démarrer, Laragon va
 Entrer cette URL dans votre navigateur et si tout se passe bien vous devriez obtenir une page Laravel.
 
 ## Résultat
-
+(https://github.com/Chovet/Veille-technologique/blob/master/welcome-page.png)
