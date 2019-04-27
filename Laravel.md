@@ -1,4 +1,4 @@
-
+![logo-laravel](https://github.com/Chovet/Veille-technologique/blob/master/logo-laravel.png)
 
 # LARAVEL - Mise en production d'un projet avec Laragon
 Ce guide vous permettra de mettre en production un projet Laravel en local.
